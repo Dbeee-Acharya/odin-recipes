@@ -1,0 +1,45 @@
+body{
+    font-family: Helvetica, sans-serif;
+}
+
+.index.image {
+    height: 400px;
+    margin-left: 20%;
+}
+
+h1 {
+    padding: 4px;
+    text-align: center;
+    background-color: bisque;
+    color: black;
+}
+
+.small-heading {
+    text-align: center;
+}
+
+.contents {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    background-color: green;
+    border: none;
+    padding: 15px 32px;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+
+}
+
+.button {
+    color: white;
+}
